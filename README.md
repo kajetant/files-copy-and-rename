@@ -5,3 +5,8 @@ My main use case is taking photos on vacations using several devices and then I'
 
 Prerequisities:
 - devices' date and time should be synchronised :)
+
+How to use:
+- set SOURCE_DIR_PATHS - the list of source directories to lookup for files
+- set DESTINATION_DIR_PATH - destination directory for all files
+- just run the script
